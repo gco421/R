@@ -1,0 +1,12 @@
+name: violinplotinteractive
+title: ViolinPlotInteractive
+username: grco
+account: grco
+server: dkoh-ld2
+hostUrl: http://dkoh-ld2:3939/__api__
+appId: 46
+bundleId: 168
+url: http://dkoh-ld2:3939/content/46/
+when: 1554311719.69886
+asMultiple: FALSE
+asStatic: FALSE

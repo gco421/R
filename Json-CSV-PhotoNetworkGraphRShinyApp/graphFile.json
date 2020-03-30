@@ -1,0 +1,154 @@
+{
+    "name": "Will",
+    "img": "images/photo23.png",
+    "children": [
+     {
+      "name": "Event Group 1",
+      "children": [
+       {
+         "name": "Gina", 
+         "link": "https://www.linkedin.com",
+         "img":  "images/photo2.png",
+         "size": 40000
+       },
+       {
+         "name": "Suzanne", 
+         "link": "https://www.linkedin.com",
+         "img":  "images/photo3.png",
+         "size": 40000
+       },
+       {
+         "name": "Marjorie",
+         "link": "https://www.linkedin.com",
+         "img":  "images/photo4.png",
+         "size": 40000
+       },
+       {
+         "name": "Candace",
+         "link": "https://www.linkedin.com",
+         "img":  "images/photo5.png",
+         "size": 40000
+       },
+       {
+         "name": "Joseph",
+         "link": "https://www.linkedin.com",
+         "img":  "images/photo6.png",
+         "size": 40000
+       },
+       {
+        "name": "Gino", 
+        "link": "https://www.linkedin.com",
+        "img":  "images/photo7.png",
+        "size": 40000
+       },
+       {
+        "name": "John", 
+        "link": "https://www.linkedin.com",
+        "img":  "images/photo8.png",
+        "size": 40000
+       },
+       {
+        "name": "Lee",
+        "link": "https://www.linkedin.com",
+        "img":  "images/photo9.png",
+        "size": 40000
+       },
+       { 
+        "name": "Terrence",
+        "link": "https://www.linkedin.com",
+        "img":  "images/photo10.png",
+        "size": 40000
+       }
+     ]
+     },
+     {
+      "name": "Event Group 2",
+      "children": [
+          {
+            "name": "Sonia", 
+            "link": "https://www.linkedin.com",
+            "img":  "images/photo11.png",
+            "size": 40000
+          },
+          {
+            "name": "Lisa", 
+            "link": "https://www.linkedin.com",
+            "img":  "images/photo12.png",
+            "size": 40000
+          },
+          {
+            "name": "Donald",
+            "link": "https://www.linkedin.com",
+            "img":  "images/photo13.png",
+            "size": 40000
+          },
+          {
+            "name": "Eric",
+            "link": "https://www.linkedin.com",
+            "img":  "images/photo14.png",
+            "size": 40000
+          },
+          { 
+            "name": "Ben",
+            "link": "https://www.linkedin.com",
+            "img":  "images/photo15.png",
+            "size": 40000
+          },
+          {
+            "name": "Harry", 
+            "link": "https://www.linkedin.com",
+            "img":  "images/photo16.png",
+            "size": 40000
+          },
+          {
+            "name": "Elle", 
+            "link": "https://www.linkedin.com",
+            "img":  "images/photo17.png",
+            "size": 40000
+          }
+      ]
+     },
+     {
+      "name": "Event Group 3",
+      "children": [
+          {
+            "name": "Guy", 
+            "link": "https://www.linkedin.com",
+            "img":  "images/photo18.png",
+            "size": 40000
+          },
+          {
+            "name": "Kathryn", 
+            "link": "https://www.linkedin.com",
+            "img":  "images/photo19.png",
+            "size": 40000
+          },
+          {
+            "name": "Leif",
+            "link": "https://www.linkedin.com",
+            "img":  "images/photo20.png",
+            "size": 40000
+          },
+          {
+            "name": "Mary",
+            "link": "https://www.linkedin.com",
+            "img":  "images/photo21.png",
+            "size": 40000
+          },
+          {
+            "name": "Boris",
+            "link": "https://www.linkedin.com",
+            "img":  "images/photo22.png",
+            "size": 40000
+          },
+          {
+            "name": "Robert", 
+            "link": "https://www.linkedin.com",
+            "img":  "images/photo1.png",
+            "size": 40000
+          }
+      ]
+     }  
+    ]
+   }
+   
